@@ -1,4 +1,4 @@
-package com.youtube.cmjdFinal;
+package com.cmjd.cmjdFinal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

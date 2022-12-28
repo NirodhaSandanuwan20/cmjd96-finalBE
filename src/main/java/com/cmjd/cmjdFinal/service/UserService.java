@@ -1,9 +1,9 @@
-package com.youtube.cmjdFinal.service;
+package com.cmjd.cmjdFinal.service;
 
-import com.youtube.cmjdFinal.dao.RoleDao;
-import com.youtube.cmjdFinal.dao.UserDao;
-import com.youtube.cmjdFinal.entity.Role;
-import com.youtube.cmjdFinal.entity.User;
+import com.cmjd.cmjdFinal.dao.RoleDao;
+import com.cmjd.cmjdFinal.dao.UserDao;
+import com.cmjd.cmjdFinal.entity.Role;
+import com.cmjd.cmjdFinal.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.youtube.cmjdFinal.util;
+package com.cmjd.cmjdFinal.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

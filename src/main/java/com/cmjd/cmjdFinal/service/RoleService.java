@@ -1,7 +1,7 @@
-package com.youtube.cmjdFinal.service;
+package com.cmjd.cmjdFinal.service;
 
-import com.youtube.cmjdFinal.dao.RoleDao;
-import com.youtube.cmjdFinal.entity.Role;
+import com.cmjd.cmjdFinal.dao.RoleDao;
+import com.cmjd.cmjdFinal.entity.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

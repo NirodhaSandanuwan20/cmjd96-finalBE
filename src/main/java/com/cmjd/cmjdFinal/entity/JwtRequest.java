@@ -1,4 +1,4 @@
-package com.youtube.cmjdFinal.entity;
+package com.cmjd.cmjdFinal.entity;
 
 public class JwtRequest {
 

@@ -1,7 +1,7 @@
-package com.youtube.cmjdFinal.service;
+package com.cmjd.cmjdFinal.service;
 
-import com.youtube.cmjdFinal.dao.ProductDao;
-import com.youtube.cmjdFinal.entity.Product;
+import com.cmjd.cmjdFinal.dao.ProductDao;
+import com.cmjd.cmjdFinal.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;

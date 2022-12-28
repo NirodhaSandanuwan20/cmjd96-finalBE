@@ -1,8 +1,8 @@
-package com.youtube.cmjdFinal.controller;
+package com.cmjd.cmjdFinal.controller;
 
-import com.youtube.cmjdFinal.entity.ImageModel;
-import com.youtube.cmjdFinal.entity.Product;
-import com.youtube.cmjdFinal.service.ProductService;
+import com.cmjd.cmjdFinal.entity.ImageModel;
+import com.cmjd.cmjdFinal.entity.Product;
+import com.cmjd.cmjdFinal.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.security.access.prepost.PreAuthorize;

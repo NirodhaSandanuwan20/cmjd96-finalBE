@@ -1,6 +1,6 @@
-package com.youtube.cmjdFinal.dao;
+package com.cmjd.cmjdFinal.dao;
 
-import com.youtube.cmjdFinal.entity.User;
+import com.cmjd.cmjdFinal.entity.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

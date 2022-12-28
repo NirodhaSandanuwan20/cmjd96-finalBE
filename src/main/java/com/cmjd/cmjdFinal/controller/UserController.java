@@ -1,7 +1,7 @@
-package com.youtube.cmjdFinal.controller;
+package com.cmjd.cmjdFinal.controller;
 
-import com.youtube.cmjdFinal.entity.User;
-import com.youtube.cmjdFinal.service.UserService;
+import com.cmjd.cmjdFinal.entity.User;
+import com.cmjd.cmjdFinal.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;

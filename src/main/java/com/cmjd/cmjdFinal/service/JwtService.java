@@ -1,10 +1,10 @@
-package com.youtube.cmjdFinal.service;
+package com.cmjd.cmjdFinal.service;
 
-import com.youtube.cmjdFinal.dao.UserDao;
-import com.youtube.cmjdFinal.entity.JwtRequest;
-import com.youtube.cmjdFinal.entity.JwtResponse;
-import com.youtube.cmjdFinal.util.JwtUtil;
-import com.youtube.cmjdFinal.entity.User;
+import com.cmjd.cmjdFinal.util.JwtUtil;
+import com.cmjd.cmjdFinal.dao.UserDao;
+import com.cmjd.cmjdFinal.entity.JwtRequest;
+import com.cmjd.cmjdFinal.entity.JwtResponse;
+import com.cmjd.cmjdFinal.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.BadCredentialsException;

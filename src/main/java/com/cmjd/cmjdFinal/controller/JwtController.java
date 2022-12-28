@@ -1,8 +1,8 @@
-package com.youtube.cmjdFinal.controller;
+package com.cmjd.cmjdFinal.controller;
 
-import com.youtube.cmjdFinal.entity.JwtRequest;
-import com.youtube.cmjdFinal.entity.JwtResponse;
-import com.youtube.cmjdFinal.service.JwtService;
+import com.cmjd.cmjdFinal.entity.JwtRequest;
+import com.cmjd.cmjdFinal.entity.JwtResponse;
+import com.cmjd.cmjdFinal.service.JwtService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;

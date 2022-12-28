@@ -1,4 +1,4 @@
-package com.youtube.cmjdFinal.configuration;
+package com.cmjd.cmjdFinal.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

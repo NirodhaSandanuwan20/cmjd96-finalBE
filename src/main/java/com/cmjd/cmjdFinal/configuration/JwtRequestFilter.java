@@ -1,7 +1,7 @@
-package com.youtube.cmjdFinal.configuration;
+package com.cmjd.cmjdFinal.configuration;
 
-import com.youtube.cmjdFinal.service.JwtService;
-import com.youtube.cmjdFinal.util.JwtUtil;
+import com.cmjd.cmjdFinal.service.JwtService;
+import com.cmjd.cmjdFinal.util.JwtUtil;
 import io.jsonwebtoken.ExpiredJwtException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

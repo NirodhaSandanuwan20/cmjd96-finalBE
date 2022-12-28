@@ -1,7 +1,7 @@
-package com.youtube.cmjdFinal.controller;
+package com.cmjd.cmjdFinal.controller;
 
-import com.youtube.cmjdFinal.entity.Role;
-import com.youtube.cmjdFinal.service.RoleService;
+import com.cmjd.cmjdFinal.entity.Role;
+import com.cmjd.cmjdFinal.service.RoleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
